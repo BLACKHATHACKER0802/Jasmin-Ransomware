@@ -1,4 +1,4 @@
-[![pawarmahesh0802][Instagram-shield]][Instagram-url]  [![LinkedIn][linkedin-shield]][linkedin-url] 
+[![siddhantgour][Instagram-shield]][Instagram-url]  [![LinkedIn][linkedin-shield]][linkedin-url] 
 [![Siddhantgour][Twitter-shield]][Twitter-url] [![Youtube][Youtube-shield]][Youtube-url] [![Telegram][Telegram-shield]][Telegram-url] [![Quora][Quora-shield]][Quora-url]  [![Facebook][Facebook-shield]][Facebook-url] 
 <p align="center">
   <img alt="jasmin ransomware" src="https://github.com/codesiddhant/jasmin-ransomware/blob/master/Images/logo.jpg" width="150"/>
@@ -197,7 +197,7 @@ Wanna Jasmin Pro with custom features ? Dm me <br>
 [linkedin-url]: https://linkedin.com/in/siddhantgour
 
 [Instagram-shield]: https://img.shields.io/badge/siddhantgour%20-%23E4405F.svg?&style=for-the-badge&logo=Instagram&logoColor=white
-[Instagram-url]: https://instagram.com/siddhantgour
+[Instagram-url]: https://instagram.com/
 [Twitter-shield]: https://img.shields.io/badge/Twitter%20-%231DA1F2.svg?&style=for-the-badge&logo=Twitter&logoColor=white
 [Twitter-url]: https://twitter.com/siddhantgour
 [Youtube-shield]: https://img.shields.io/badge/Youtube%20-%23FF0000.svg?&style=for-the-badge&logo=Youtube&logoColor=white
